@@ -1,0 +1,19 @@
+﻿# 编译输出
+*.exe
+*.dll
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 密钥文件
+API密钥.txt
